@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Feedy",
+  "id": "Feedy",
+  "isDocsHomePage": false,
+  "title": "Feedy",
+  "description": "Third party software component",
+  "source": "@site/../docs/Feedy.md",
+  "slug": "/Feedy",
+  "permalink": "/docs/docs/Feedy",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "Third party software component",
+  "sidebar": "docs",
+  "previous": {
+    "title": "FlowControl System Release Notes",
+    "permalink": "/docs/docs/Rel"
+  }
+}

@@ -1,0 +1,68 @@
+Arguments: 
+  /home/ted/.nvm/versions/node/v14.16.1/bin/node /usr/share/yarn/bin/yarn.js start
+
+PATH: 
+  /home/ted/.nvm/versions/node/v14.16.1/bin:/home/ted/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.16.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/ted/Dokumenty/Docusaurus Update to 2.X/Test_update_2.0/website/package.json: Unexpected token / in JSON at position 52
+      at JSON.parse (<anonymous>)
+      at /usr/share/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/share/yarn/lib/cli.js:310:30)
+      at /usr/share/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "scripts": {
+      "docusaurus": "docusaurus"
+      // "examples": "docusaurus-examples",
+      "start": "docusaurus start",
+      "build": "docusaurus build",
+      //"publish-gh-pages": "docusaurus-publish",
+     // "write-translations": "docusaurus-write-translations",
+     // "version": "docusaurus-version",
+     // "rename-version": "docusaurus-rename-version",
+      "swizzle": "docusaurus swizzle",
+      "deploy": "docusaurus deploy",
+      "serve": "docusaurus serve",
+      "clear": "docusaurus clear"
+      
+    },
+    // "devDependencies": {},
+    "dependencies": {
+      "@docusaurus/core": "2.0.0-alpha.72",
+      "@docusaurus/theme-classic": "^2.0.0-alpha.37",
+     // "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.39",
+    //  "algoliasearch": "^3.35.1",
+     // "react-instantsearch": "^6.1.0",
+     // "react-native": "^0.61.5",
+      "@docusaurus/preset-classic": "2.0.0-alpha.72",
+      "clsx": "^1.1.1",
+      "react": "^17.0.1",
+      "react-dom": "^17.0.1"
+    },
+      "browserslist": {
+      "production": [">0.5%", "not dead", "not op_mini all"],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

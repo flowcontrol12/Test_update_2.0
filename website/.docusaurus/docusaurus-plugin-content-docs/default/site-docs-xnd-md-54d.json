@@ -1,0 +1,24 @@
+{
+  "unversionedId": "XND",
+  "id": "XND",
+  "isDocsHomePage": false,
+  "title": "XND module",
+  "description": "1. Performance",
+  "source": "@site/../docs/XND.md",
+  "slug": "/XND",
+  "permalink": "/docs/docs/XND",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "XND User Guide",
+  "sidebar": "docs",
+  "previous": {
+    "title": "XNS module",
+    "permalink": "/docs/docs/XNS"
+  },
+  "next": {
+    "title": "FlowControl Command Line Interface (CLI)",
+    "permalink": "/docs/docs/CLI"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Inst_g",
+  "id": "Inst_g",
+  "isDocsHomePage": false,
+  "title": "FlowControl - Installation guide",
+  "description": "Introduction",
+  "source": "@site/../docs/Inst_guide.md",
+  "slug": "/Inst_g",
+  "permalink": "/docs/docs/Inst_g",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "Installation Procedure",
+  "sidebar": "docs",
+  "next": {
+    "title": "XN module",
+    "permalink": "/docs/docs/"
+  }
+}

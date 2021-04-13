@@ -1,0 +1,457 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/ted/Dokumenty/Docusaurus Update to 2.X/Test_update_2.0/website/sidebars.json",
+          "contentPath": "/home/ted/Dokumenty/Docusaurus Update to 2.X/Test_update_2.0/docs",
+          "contentPathLocalized": "/home/ted/Dokumenty/Docusaurus Update to 2.X/Test_update_2.0/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "XN",
+          "sidebars": {
+            "docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Installation Guide",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Inst_g"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "XN module",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "XN"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "XNS module",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "XNS"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "XND module",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "XND"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Command Line Interface",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "CLI"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "System Requirements",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Req"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Release Note",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Rel"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Third party software component",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Feedy"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/docs/CLI": "docs",
+            "/docs/docs/Feedy": "docs",
+            "/docs/docs/Inst_g": "docs",
+            "/docs/docs/Rel": "docs",
+            "/docs/docs/Req": "docs",
+            "/docs/docs/": "docs",
+            "/docs/docs/XND": "docs",
+            "/docs/docs/XNS": "docs"
+          },
+          "docs": [
+            {
+              "unversionedId": "CLI",
+              "id": "CLI",
+              "isDocsHomePage": false,
+              "title": "FlowControl Command Line Interface (CLI)",
+              "description": "1. Access to the system Command Line Console (CLI)",
+              "source": "@site/../docs/CLI.md",
+              "slug": "/CLI",
+              "permalink": "/docs/docs/CLI",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "CLI commands",
+              "sidebar": "docs",
+              "previous": {
+                "title": "XND module",
+                "permalink": "/docs/docs/XND"
+              },
+              "next": {
+                "title": "FlowControl System Requirements",
+                "permalink": "/docs/docs/Req"
+              }
+            },
+            {
+              "unversionedId": "Feedy",
+              "id": "Feedy",
+              "isDocsHomePage": false,
+              "title": "Feedy",
+              "description": "Third party software component",
+              "source": "@site/../docs/Feedy.md",
+              "slug": "/Feedy",
+              "permalink": "/docs/docs/Feedy",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Third party software component",
+              "sidebar": "docs",
+              "previous": {
+                "title": "FlowControl System Release Notes",
+                "permalink": "/docs/docs/Rel"
+              }
+            },
+            {
+              "unversionedId": "Inst_g",
+              "id": "Inst_g",
+              "isDocsHomePage": false,
+              "title": "FlowControl - Installation guide",
+              "description": "Introduction",
+              "source": "@site/../docs/Inst_guide.md",
+              "slug": "/Inst_g",
+              "permalink": "/docs/docs/Inst_g",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Installation Procedure",
+              "sidebar": "docs",
+              "next": {
+                "title": "XN module",
+                "permalink": "/docs/docs/"
+              }
+            },
+            {
+              "unversionedId": "Rel",
+              "id": "Rel",
+              "isDocsHomePage": false,
+              "title": "FlowControl System Release Notes",
+              "description": "Release notes",
+              "source": "@site/../docs/Release.md",
+              "slug": "/Rel",
+              "permalink": "/docs/docs/Rel",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Release notes",
+              "sidebar": "docs",
+              "previous": {
+                "title": "FlowControl System Requirements",
+                "permalink": "/docs/docs/Req"
+              },
+              "next": {
+                "title": "Feedy",
+                "permalink": "/docs/docs/Feedy"
+              }
+            },
+            {
+              "unversionedId": "Req",
+              "id": "Req",
+              "isDocsHomePage": false,
+              "title": "FlowControl System Requirements",
+              "description": "With purchase of FlowControl system, you receive OVA file required for deployment of the software. Please ensure that the file is available for installation process.",
+              "source": "@site/../docs/Req.md",
+              "slug": "/Req",
+              "permalink": "/docs/docs/Req",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "Requirements",
+              "sidebar": "docs",
+              "previous": {
+                "title": "FlowControl Command Line Interface (CLI)",
+                "permalink": "/docs/docs/CLI"
+              },
+              "next": {
+                "title": "FlowControl System Release Notes",
+                "permalink": "/docs/docs/Rel"
+              }
+            },
+            {
+              "unversionedId": "XN",
+              "id": "XN",
+              "isDocsHomePage": false,
+              "title": "XN module",
+              "description": "Introduction",
+              "source": "@site/../docs/XN.md",
+              "slug": "/",
+              "permalink": "/docs/docs/",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "XN User Guide",
+              "sidebar": "docs",
+              "previous": {
+                "title": "FlowControl - Installation guide",
+                "permalink": "/docs/docs/Inst_g"
+              },
+              "next": {
+                "title": "XNS module",
+                "permalink": "/docs/docs/XNS"
+              }
+            },
+            {
+              "unversionedId": "XND",
+              "id": "XND",
+              "isDocsHomePage": false,
+              "title": "XND module",
+              "description": "1. Performance",
+              "source": "@site/../docs/XND.md",
+              "slug": "/XND",
+              "permalink": "/docs/docs/XND",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "XND User Guide",
+              "sidebar": "docs",
+              "previous": {
+                "title": "XNS module",
+                "permalink": "/docs/docs/XNS"
+              },
+              "next": {
+                "title": "FlowControl Command Line Interface (CLI)",
+                "permalink": "/docs/docs/CLI"
+              }
+            },
+            {
+              "unversionedId": "XNS",
+              "id": "XNS",
+              "isDocsHomePage": false,
+              "title": "XNS module",
+              "description": "Introduction",
+              "source": "@site/../docs/XNS.md",
+              "slug": "/XNS",
+              "permalink": "/docs/docs/XNS",
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebar_label": "XNS User Guide",
+              "sidebar": "docs",
+              "previous": {
+                "title": "XN module",
+                "permalink": "/docs/docs/"
+              },
+              "next": {
+                "title": "XND module",
+                "permalink": "/docs/docs/XND"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "New Version 1.0.0",
+          "metadata": {
+            "permalink": "/docs/blog/2017/10/24/new-version-1.0.0",
+            "source": "@site/blog/2017-10-24-new-version-1.0.0.md",
+            "description": "This blog post will test file name parsing issues when periods are present.",
+            "date": "2017-10-24T00:00:00.000Z",
+            "formattedDate": "October 24, 2017",
+            "tags": [],
+            "title": "New Version 1.0.0",
+            "readingTime": 0.065,
+            "truncated": false,
+            "nextItem": {
+              "title": "Adding RSS Support",
+              "permalink": "/docs/blog/2017/09/26/adding-rss"
+            }
+          }
+        },
+        {
+          "id": "Adding RSS Support",
+          "metadata": {
+            "permalink": "/docs/blog/2017/09/26/adding-rss",
+            "source": "@site/blog/2017-09-26-adding-rss.md",
+            "description": "This is a test post.",
+            "date": "2017-09-26T00:00:00.000Z",
+            "formattedDate": "September 26, 2017",
+            "tags": [],
+            "title": "Adding RSS Support",
+            "readingTime": 0.055,
+            "truncated": false,
+            "prevItem": {
+              "title": "New Version 1.0.0",
+              "permalink": "/docs/blog/2017/10/24/new-version-1.0.0"
+            },
+            "nextItem": {
+              "title": "Adding RSS Support - RSS Truncation Test",
+              "permalink": "/docs/blog/2017/09/25/testing-rss"
+            }
+          }
+        },
+        {
+          "id": "Adding RSS Support - RSS Truncation Test",
+          "metadata": {
+            "permalink": "/docs/blog/2017/09/25/testing-rss",
+            "source": "@site/blog/2017-09-25-testing-rss.md",
+            "description": "1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890",
+            "date": "2017-09-25T00:00:00.000Z",
+            "formattedDate": "September 25, 2017",
+            "tags": [],
+            "title": "Adding RSS Support - RSS Truncation Test",
+            "readingTime": 0.065,
+            "truncated": true,
+            "prevItem": {
+              "title": "Adding RSS Support",
+              "permalink": "/docs/blog/2017/09/26/adding-rss"
+            },
+            "nextItem": {
+              "title": "New Blog Post",
+              "permalink": "/docs/blog/2017/04/10/blog-post-two"
+            }
+          }
+        },
+        {
+          "id": "New Blog Post",
+          "metadata": {
+            "permalink": "/docs/blog/2017/04/10/blog-post-two",
+            "source": "@site/blog/2017-04-10-blog-post-two.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.",
+            "date": "2017-04-10T00:00:00.000Z",
+            "formattedDate": "April 10, 2017",
+            "tags": [],
+            "title": "New Blog Post",
+            "readingTime": 2.31,
+            "truncated": true,
+            "prevItem": {
+              "title": "Adding RSS Support - RSS Truncation Test",
+              "permalink": "/docs/blog/2017/09/25/testing-rss"
+            },
+            "nextItem": {
+              "title": "Blog Title",
+              "permalink": "/docs/blog/2016/03/11/blog-post"
+            }
+          }
+        },
+        {
+          "id": "Blog Title",
+          "metadata": {
+            "permalink": "/docs/blog/2016/03/11/blog-post",
+            "source": "@site/blog/2016-03-11-blog-post.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.",
+            "date": "2016-03-11T00:00:00.000Z",
+            "formattedDate": "March 11, 2016",
+            "tags": [],
+            "title": "Blog Title",
+            "readingTime": 2.31,
+            "truncated": true,
+            "prevItem": {
+              "title": "New Blog Post",
+              "permalink": "/docs/blog/2017/04/10/blog-post-two"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/docs/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 5,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "New Version 1.0.0",
+            "Adding RSS Support",
+            "Adding RSS Support - RSS Truncation Test",
+            "New Blog Post",
+            "Blog Title"
+          ]
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/docs/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  }
+}

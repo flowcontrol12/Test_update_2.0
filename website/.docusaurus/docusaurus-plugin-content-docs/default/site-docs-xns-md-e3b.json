@@ -1,0 +1,24 @@
+{
+  "unversionedId": "XNS",
+  "id": "XNS",
+  "isDocsHomePage": false,
+  "title": "XNS module",
+  "description": "Introduction",
+  "source": "@site/../docs/XNS.md",
+  "slug": "/XNS",
+  "permalink": "/docs/docs/XNS",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "XNS User Guide",
+  "sidebar": "docs",
+  "previous": {
+    "title": "XN module",
+    "permalink": "/docs/docs/"
+  },
+  "next": {
+    "title": "XND module",
+    "permalink": "/docs/docs/XND"
+  }
+}

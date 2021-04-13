@@ -1,0 +1,116 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Installation Guide",
+        "items": [
+          {
+            "type": "link",
+            "label": "Installation Procedure",
+            "href": "/docs/docs/Inst_g"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "XN module",
+        "items": [
+          {
+            "type": "link",
+            "label": "XN User Guide",
+            "href": "/docs/docs/"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "XNS module",
+        "items": [
+          {
+            "type": "link",
+            "label": "XNS User Guide",
+            "href": "/docs/docs/XNS"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "XND module",
+        "items": [
+          {
+            "type": "link",
+            "label": "XND User Guide",
+            "href": "/docs/docs/XND"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Command Line Interface",
+        "items": [
+          {
+            "type": "link",
+            "label": "CLI commands",
+            "href": "/docs/docs/CLI"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "System Requirements",
+        "items": [
+          {
+            "type": "link",
+            "label": "Requirements",
+            "href": "/docs/docs/Req"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Release Note",
+        "items": [
+          {
+            "type": "link",
+            "label": "Release notes",
+            "href": "/docs/docs/Rel"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Third party software component",
+        "items": [
+          {
+            "type": "link",
+            "label": "Third party software component",
+            "href": "/docs/docs/Feedy"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/docs/CLI": "docs",
+    "/docs/docs/Feedy": "docs",
+    "/docs/docs/Inst_g": "docs",
+    "/docs/docs/Rel": "docs",
+    "/docs/docs/Req": "docs",
+    "/docs/docs/": "docs",
+    "/docs/docs/XND": "docs",
+    "/docs/docs/XNS": "docs"
+  }
+}

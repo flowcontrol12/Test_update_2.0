@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Rel",
+  "id": "Rel",
+  "isDocsHomePage": false,
+  "title": "FlowControl System Release Notes",
+  "description": "Release notes",
+  "source": "@site/../docs/Release.md",
+  "slug": "/Rel",
+  "permalink": "/docs/docs/Rel",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "Release notes",
+  "sidebar": "docs",
+  "previous": {
+    "title": "FlowControl System Requirements",
+    "permalink": "/docs/docs/Req"
+  },
+  "next": {
+    "title": "Feedy",
+    "permalink": "/docs/docs/Feedy"
+  }
+}

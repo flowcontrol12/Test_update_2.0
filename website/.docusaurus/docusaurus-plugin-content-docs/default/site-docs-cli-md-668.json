@@ -1,0 +1,24 @@
+{
+  "unversionedId": "CLI",
+  "id": "CLI",
+  "isDocsHomePage": false,
+  "title": "FlowControl Command Line Interface (CLI)",
+  "description": "1. Access to the system Command Line Console (CLI)",
+  "source": "@site/../docs/CLI.md",
+  "slug": "/CLI",
+  "permalink": "/docs/docs/CLI",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebar_label": "CLI commands",
+  "sidebar": "docs",
+  "previous": {
+    "title": "XND module",
+    "permalink": "/docs/docs/XND"
+  },
+  "next": {
+    "title": "FlowControl System Requirements",
+    "permalink": "/docs/docs/Req"
+  }
+}

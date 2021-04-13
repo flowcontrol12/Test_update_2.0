@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs/docs",
+          "mainDocId": "XN",
+          "docs": [
+            {
+              "id": "CLI",
+              "path": "/docs/docs/CLI",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Feedy",
+              "path": "/docs/docs/Feedy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Inst_g",
+              "path": "/docs/docs/Inst_g",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Rel",
+              "path": "/docs/docs/Rel",
+              "sidebar": "docs"
+            },
+            {
+              "id": "Req",
+              "path": "/docs/docs/Req",
+              "sidebar": "docs"
+            },
+            {
+              "id": "XN",
+              "path": "/docs/docs/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "XND",
+              "path": "/docs/docs/XND",
+              "sidebar": "docs"
+            },
+            {
+              "id": "XNS",
+              "path": "/docs/docs/XNS",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
